@@ -1,5 +1,6 @@
 # HSM 
 ![python](http://ForTheBadge.com/images/badges/made-with-python.svg)
+![mit](https://badgen.net/github/license/micromatch/micromatch)
 
 
 Old source code of HSM (HTTP Server Monster)
